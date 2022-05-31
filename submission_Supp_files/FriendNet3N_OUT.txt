@@ -1,0 +1,106 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: FriendshipMFinder.txt
+	Network type: Directed
+	Num of Nodes: 1828 Num of Edges: 668
+	Num of Nodes with edges: 134
+	Maximal out degree (out-hub) : 16
+	Maximal in degree (in-hub) : 15
+	Roots num: 3 Leaves num: 1
+	Single Edges num: 144 Mutual Edges num: 262
+
+	Motif size searched  3
+	Total number of 3-node subgraphs : 1944
+	Number of random networks generated : 100
+	Random networks generation method: Switches (with metropolis)
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 5 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+38	15	4.9+-2.1	4.90	0.000	5	7.72
+
+0 1 1 
+0 0 1 
+0 0 0 
+
+46	50	5.5+-2.4	18.17	0.000	8	25.72
+
+0 1 1 
+1 0 1 
+0 0 0 
+
+108	40	5.6+-2.2	15.31	0.000	13	20.58
+
+0 0 1 
+1 0 1 
+1 0 0 
+
+110	137	22.9+-5.0	22.98	0.000	18	70.47
+
+0 1 1 
+1 0 1 
+1 0 0 
+
+238	200	14.1+-3.5	52.42	0.000	28	102.88
+
+0 1 1 
+1 0 1 
+1 1 0 
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	110	154.5+-2.9	-15.12	1.000	56.58	14
+
+12	124	137.0+-3.3	-3.99	1.000	63.79	14
+
+14	402	608.7+-7.3	-28.46	1.000	206.79	22
+
+36	77	131.6+-2.9	-19.02	1.000	39.61	15
+
+38	15	4.9+-2.1	4.90	0.000	7.72	5
+
+46	50	5.5+-2.4	18.17	0.000	25.72	8
+
+74	364	550.6+-7.2	-26.06	1.000	187.24	22
+
+78	416	1087.8+-11.6	-57.97	1.000	213.99	23
+
+98	0	0.3+-0.5	-0.53	1.000	0.00	0
+
+102	9	5.3+-2.3	1.60	0.100	4.63	5
+
+108	40	5.6+-2.2	15.31	0.000	20.58	13
+
+110	137	22.9+-5.0	22.98	0.000	70.47	18
+
+238	200	14.1+-3.5	52.42	0.000	102.88	28
+
+
+
+ (Application total runtime was:    9.0 seconds.)
+
+ (Real network processing runtime was:    0.0 seconds.)
+
+ (Single Random network processing runtime was:    0.1 seconds.)

@@ -1,0 +1,112 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: neuralCElegansmFinder.txt
+	Network type: Directed
+	Num of Nodes: 297 Num of Edges: 2345
+	Num of Nodes with edges: 297
+	Maximal out degree (out-hub) : 134
+	Maximal in degree (in-hub) : 39
+	Roots num: 3 Leaves num: 27
+	Single Edges num: 1951 Mutual Edges num: 197
+
+	Motif size searched  3
+	Total number of 3-node subgraphs : 47322
+	Number of random networks generated : 100
+	Random networks generation method: Switches (with metropolis)
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 6 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+38	1972	1406.5+-45.7	12.38	0.000	52	41.67
+
+0 1 1 
+0 0 1 
+0 0 0 
+
+46	312	84.3+-10.8	21.12	0.000	30	6.59
+
+0 1 1 
+1 0 1 
+0 0 0 
+
+102	179	144.0+-12.2	2.86	0.020	25	3.78
+
+0 1 1 
+0 0 1 
+1 0 0 
+
+108	542	197.2+-12.8	27.03	0.000	32	11.45
+
+0 0 1 
+1 0 1 
+1 0 0 
+
+110	148	49.6+-7.8	12.61	0.000	23	3.13
+
+0 1 1 
+1 0 1 
+1 0 0 
+
+238	16	3.1+-1.7	7.70	0.000	11	0.34
+
+0 1 1 
+1 0 1 
+1 1 0 
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	17379	18289.2+-51.8	-17.58	1.000	367.25	67
+
+12	13029	13418.6+-65.6	-5.94	1.000	275.33	65
+
+14	2595	3183.8+-30.3	-19.45	1.000	54.84	46
+
+36	7935	8728.2+-46.0	-17.25	1.000	167.68	66
+
+38	1972	1406.5+-45.7	12.38	0.000	41.67	52
+
+46	312	84.3+-10.8	21.12	0.000	6.59	30
+
+74	2828	3650.9+-29.2	-28.21	1.000	59.76	44
+
+78	315	452.2+-10.1	-13.62	1.000	6.66	24
+
+98	72	142.3+-12.7	-5.54	1.000	1.52	17
+
+102	179	144.0+-12.2	2.86	0.020	3.78	25
+
+108	542	197.2+-12.8	27.03	0.000	11.45	32
+
+110	148	49.6+-7.8	12.61	0.000	3.13	23
+
+238	16	3.1+-1.7	7.70	0.000	0.34	11
+
+
+
+ (Application total runtime was:   48.0 seconds.)
+
+ (Real network processing runtime was:    0.0 seconds.)
+
+ (Single Random network processing runtime was:    0.5 seconds.)

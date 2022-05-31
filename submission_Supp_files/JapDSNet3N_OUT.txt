@@ -1,0 +1,76 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: JapDSNet.txt
+	Network type: Directed
+	Num of Nodes: 3175 Num of Edges: 2306
+	Num of Nodes with edges: 402
+	Maximal out degree (out-hub) : 123
+	Maximal in degree (in-hub) : 113
+	Roots num: 39 Leaves num: 23
+	Single Edges num: 1978 Mutual Edges num: 164
+
+	Motif size searched  3
+	Total number of 3-node subgraphs : 83983
+	Number of random networks generated : 100
+	Random networks generation method: Switches (with metropolis)
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 0 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	15329	15007.1+-60.9	5.28	0.000	182.53	51
+
+12	29919	29408.7+-124.4	4.10	0.000	356.25	53
+
+14	8441	8167.6+-53.3	5.13	0.000	100.51	15
+
+36	16320	16013.1+-66.8	4.60	0.000	194.33	44
+
+38	1945	2210.2+-59.2	-4.48	1.000	23.16	22
+
+46	414	455.6+-20.4	-2.04	0.990	4.93	10
+
+74	8012	7708.5+-53.0	5.72	0.000	95.40	15
+
+78	1487	1371.4+-21.1	5.49	0.000	17.71	10
+
+98	582	628.3+-29.4	-1.57	0.960	6.93	18
+
+102	729	835.2+-28.9	-3.67	1.000	8.68	11
+
+108	389	445.7+-21.0	-2.70	0.990	4.63	9
+
+110	368	451.9+-18.7	-4.49	1.000	4.38	6
+
+238	48	58.6+-4.4	-2.39	0.990	0.57	4
+
+
+
+ (Application total runtime was:   56.0 seconds.)
+
+ (Real network processing runtime was:    1.0 seconds.)
+
+ (Single Random network processing runtime was:    0.6 seconds.)

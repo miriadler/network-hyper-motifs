@@ -1,0 +1,82 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: s208_st_UriWeb.txt
+	Network type: Directed
+	Num of Nodes: 122 Num of Edges: 189
+	Num of Nodes with edges: 122
+	Maximal out degree (out-hub) : 10
+	Maximal in degree (in-hub) : 4
+	Roots num: 10 Leaves num: 1
+	Single Edges num: 189 Mutual Edges num: 0
+
+	Motif size searched  3
+	Total number of 3-node subgraphs : 503
+	Number of random networks generated : 100
+	Random networks generation method: Switches (with metropolis)
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 1 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+98	10	1.0+-1.0	9.16	0.000	8	19.88
+
+0 1 0 
+0 0 1 
+1 0 0 
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	164	161.3+-1.4	1.90	0.040	326.04	16
+
+12	240	264.2+-3.2	-7.63	1.000	477.14	25
+
+14	0	0.0+-0.0	888888	1.000	0.00	0
+
+36	89	86.3+-1.4	1.90	0.040	176.94	26
+
+38	0	2.7+-1.4	-1.90	1.000	0.00	0
+
+46	0	0.0+-0.0	888888	1.000	0.00	0
+
+74	0	0.0+-0.0	888888	1.000	0.00	0
+
+78	0	0.0+-0.0	888888	1.000	0.00	0
+
+98	10	1.0+-1.0	9.16	0.000	19.88	8
+
+102	0	0.0+-0.0	888888	1.000	0.00	0
+
+108	0	0.0+-0.0	888888	1.000	0.00	0
+
+110	0	0.0+-0.0	888888	1.000	0.00	0
+
+238	0	0.0+-0.0	888888	1.000	0.00	0
+
+
+
+ (Application total runtime was:    1.0 seconds.)
+
+ (Real network processing runtime was:    0.0 seconds.)
+
+ (Single Random network processing runtime was:    0.0 seconds.)

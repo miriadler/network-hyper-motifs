@@ -1,0 +1,82 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: coliNetmFinder.txt
+	Network type: Directed
+	Num of Nodes: 423 Num of Edges: 519
+	Num of Nodes with edges: 418
+	Maximal out degree (out-hub) : 72
+	Maximal in degree (in-hub) : 6
+	Roots num: 76 Leaves num: 312
+	Single Edges num: 519 Mutual Edges num: 0
+
+	Motif size searched  3
+	Total number of 3-node subgraphs : 5206
+	Number of random networks generated : 100
+	Random networks generation method: Switches (with metropolis)
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 1 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+38	42	8.0+-2.9	11.71	0.000	7	8.07
+
+0 1 1 
+0 0 1 
+0 0 0 
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	4777	4811.0+-2.9	-11.71	1.000	917.60	52
+
+12	160	194.0+-2.9	-11.64	1.000	30.73	15
+
+14	0	0.0+-0.0	888888	1.000	0.00	0
+
+36	227	261.0+-2.9	-11.71	1.000	43.60	20
+
+38	42	8.0+-2.9	11.71	0.000	8.07	7
+
+46	0	0.0+-0.0	888888	1.000	0.00	0
+
+74	0	0.0+-0.0	888888	1.000	0.00	0
+
+78	0	0.0+-0.0	888888	1.000	0.00	0
+
+98	0	0.0+-0.1	-0.10	1.000	0.00	0
+
+102	0	0.0+-0.0	888888	1.000	0.00	0
+
+108	0	0.0+-0.0	888888	1.000	0.00	0
+
+110	0	0.0+-0.0	888888	1.000	0.00	0
+
+238	0	0.0+-0.0	888888	1.000	0.00	0
+
+
+
+ (Application total runtime was:    5.0 seconds.)
+
+ (Real network processing runtime was:    0.0 seconds.)
+
+ (Single Random network processing runtime was:    0.1 seconds.)

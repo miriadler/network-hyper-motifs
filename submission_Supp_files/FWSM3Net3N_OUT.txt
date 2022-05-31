@@ -1,0 +1,76 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: FWStMartinMFinder.txt
+	Network type: Directed
+	Num of Nodes: 45 Num of Edges: 224
+	Num of Nodes with edges: 45
+	Maximal out degree (out-hub) : 22
+	Maximal in degree (in-hub) : 11
+	Roots num: 7 Leaves num: 1
+	Single Edges num: 224 Mutual Edges num: 0
+
+	Motif size searched  3
+	Total number of 3-node subgraphs : 2066
+	Number of random networks generated : 100
+	Random networks generation method: Switches (with metropolis)
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 0 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	710	735.0+-12.2	-2.06	0.980	343.66	10
+
+12	592	570.4+-14.3	1.52	0.080	286.54	10
+
+14	0	0.0+-0.0	888888	1.000	0.00	0
+
+36	484	509.0+-12.2	-2.06	0.980	234.27	8
+
+38	280	255.0+-12.2	2.06	0.040	135.53	7
+
+46	0	0.0+-0.0	888888	1.000	0.00	0
+
+74	0	0.0+-0.0	888888	1.000	0.00	0
+
+78	0	0.0+-0.0	888888	1.000	0.00	0
+
+98	0	15.6+-4.1	-3.76	1.000	0.00	0
+
+102	0	0.0+-0.0	888888	1.000	0.00	0
+
+108	0	0.0+-0.0	888888	1.000	0.00	0
+
+110	0	0.0+-0.0	888888	1.000	0.00	0
+
+238	0	0.0+-0.0	888888	1.000	0.00	0
+
+
+
+ (Application total runtime was:    2.0 seconds.)
+
+ (Real network processing runtime was:    0.0 seconds.)
+
+ (Single Random network processing runtime was:    0.0 seconds.)
